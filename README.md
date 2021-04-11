@@ -13,6 +13,25 @@
 Front End Developer at Anspire Agency (July 2020 - January 2021)
 I was responsible to build components in an application that managed clinics and their relation to insurance companies and hospitals.
 
+### skills
+Javascript
+Typescript
+React.js
+Redux
+Angular
+Ngrx
+rxjs
+Firebase
+HTML5
+CSS
+CSS Grid
+CSS Flexbox
+SASS, SCSS
+Responsive Web Design
+Git Version control
+Node.js
+MongoDB
+
 ### personal projects
 *A todo app made with React, Typescript, firebase, Rxjs and RxFire.
 https://rxfire-ts-react-1st-try.web.app/
@@ -25,6 +44,7 @@ A table that takes data and renders it in columns, each column can be sorted and
 https://github.com/abdlla-nasser/antd-tables-ts
 
 the rest of my projects are availabe pupblicly on my github
+
 
  
 
